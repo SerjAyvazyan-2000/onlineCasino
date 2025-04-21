@@ -160,16 +160,6 @@ body {
     padding: 0;
     position: relative;
     height: 100%;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
-    font-family: 'Roboto',sans-serif;
-    background-image: url(../images/banner.webp);
-    background-position-y: -50px;
-    background-repeat: no-repeat;
-    background-position-x: 85%;
-    background-size: 930px;
-    background-color: var(--black);
-    color: var(--aqua);
+
 
 }

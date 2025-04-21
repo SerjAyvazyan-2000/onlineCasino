@@ -21,7 +21,7 @@
     right: 0;
     bottom: 0;
     padding: 2px;
-    background: linear-gradient(45deg, #580ead, #0760a8, #0f0, #ff0, red, #ff0, #0f0, #fb0094, #0760a8, #580ead);
+    background: linear-gradient(45deg, #e8bb71, #7cf3f3, rgba(193, 87, 44, 0.8), rgba(193, 32, 32, 0.62), red, #ff0, #0f0, #fb0094, #0760a8, #580ead);
     background-size: 300%;
     animation: animate 10s linear infinite;
     border-radius: 17px;
@@ -64,8 +64,8 @@
 }
 
 .blu-p {
-    -webkit-box-shadow: 0 0 .1rem #fff, 0 0 .2rem #fff, 0 0 .3rem #30377f, 0 0 .8rem rgb(78 94 255), 0 0 1rem #1d2dd9, inset 0 0 1.3rem #525dff;
-    box-shadow: 0 0 .1rem #fff, 0 0 .2rem #fff, 0 0 .3rem #30377f, 0 0 .8rem rgb(78 94 255), 0 0 1rem #1d2dd9, inset 0 0 1.3rem #525dff;
+    -webkit-box-shadow: 0 0 .1rem #fff, 0 0 .2rem #fff, 0 0 .3rem #73ec8e, 0 0 .8rem rgba(221, 96, 96, 0.7), 0 0 1rem #1d2dd9, inset 0 0 1.3rem #525dff;
+    box-shadow: 0 0 .1rem #fff, 0 0 .2rem #fff, 0 0 .3rem #37a55b, 0 0 .8rem rgba(182, 61, 11, 0.8), 0 0 1rem #1d2dd9, inset 0 0 1.3rem #525dff;
 }
 
 .mini .list-item-base_rating small {
@@ -259,7 +259,7 @@
     bottom: -5px;
     left: -5px;
     z-index: -1;
-    background: linear-gradient(90deg, #03a9f4, #109e67, #ffeb3b, #03a9f4);
+    background: linear-gradient(90deg, rgba(243, 120, 69, 0.8), #6666d8, rgba(234, 158, 158, 0.62), rgba(225, 55, 55, 0.62));
     background-size: 400%;
     border-radius: 40px;
     opacity: 0;
@@ -272,7 +272,7 @@
     color: #fff;
     font-size: 24px;
     text-transform: uppercase;
-    background: linear-gradient(90deg, #03a9f4, #46b10e, #0db129, #03a9f4);
+    background: linear-gradient(90deg, rgba(227, 215, 215, 0.62), #fb8c8c, rgba(255, 60, 60, 0.62), #c5a0a0);
     background-size: 400%;
     z-index: 1;
 }

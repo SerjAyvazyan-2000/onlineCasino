@@ -19,7 +19,7 @@ header {
     padding: 0;
     border: solid 2px #fff;
     border-radius: .8rem;
-    box-shadow: 0 0 .1rem #fff, 0 0 .2rem #fff, 0 0 .3rem #30377f, 0 0 .8rem #4352ea, 0 0 1rem #1a259c, inset 0 0 1.3rem #323780;
+    box-shadow: 0 0 .1rem #fff, 0 0 .2rem #fff, 0 0 .3rem #707bff, 0 0 .8rem #7885fb, 0 0 1rem #1a259c, inset 0 0 1.3rem #323780;
 }
 
 .sign_word.one {
